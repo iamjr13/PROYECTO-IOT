@@ -5,7 +5,7 @@
 #define DEVICE_ID "13ARDU"
 #define DEVICE_CREDENTIAL "k8+PdwS8OHzTsTKw"
 #define sensor A0
-
+hecho hoy
 
 ThingerEthernet thing(USERNAME, DEVICE_ID, DEVICE_CREDENTIAL);
 int Valor;
